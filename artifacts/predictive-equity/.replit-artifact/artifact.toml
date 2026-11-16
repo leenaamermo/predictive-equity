@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Predictive Equity"
+description = "An interactive academic research page presenting Leen Amer Mohammed's proposal to combine actuarial risk modeling, offline fintech, and community-led supply systems to address the pink tax and period poverty."
+version = "1.0.0"
+id = "artifacts/predictive-equity"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18181
+
+[services.development]
+run = "pnpm --filter @workspace/predictive-equity run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/predictive-equity", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/predictive-equity/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18181"
+BASE_PATH = "/"

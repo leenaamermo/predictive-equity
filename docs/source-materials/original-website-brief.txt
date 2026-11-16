@@ -1,0 +1,21 @@
+Create a highly professional, academic-grade interactive web page for a university admissions research essay. 
+
+Project Title: "Predictive Equity: Integrating Actuarial Risk Modeling and Offline FinTech Systems to Mitigate the Pink Tax and Period Poverty"
+Author: Leen Amer Mohammed (لين عامر محمد)
+
+Design & Aesthetics Constraints:
+1. Color Palette: Use an academic, professional, and elegant layout using shades of rose pink, soft pastel pink, cream, and deep charcoal/navy for typography. It must look like a prestigious university research dashboard, not a casual blog.
+2. Visual Symbols: Incorporate elegant, minimalist geometric graphics or SVG icons that subtly symbolize womanhood, finance (charts/graphs), and technology (networks/offline tokens).
+3. Structure: Divide the website into clear, organized semantic sections based on the essay structure (Introduction, The Actuarial Problem, Overcoming the Digital Divide, Grassroots Prototyping, and Conclusion).
+
+Interactive & Professional Features:
+1. Dynamic Index/Navigation: A smooth sticky sidebar or top navigation menu that highlights the active section as the user scrolls.
+2. Actuarial Risk Calculator Widget: An interactive simulation box where users can slide parameters (e.g., Inflation Rate, Absenteeism Percentage) to see a dynamic conceptual calculation of "Macroeconomic GDP Loss" vs "ROI of Subsidizing Pads."
+3. FinTech Flow Chart Component: An interactive step-by-step flowchart tracking the offline system (USSD Text -> Tokenized Voucher -> Smart Card -> Tax-Free Product Release). Users click each step to reveal detailed descriptions.
+4. Clean Data Table: Render the Operational & Financial Matrix comparing FinTech, Actuarial, and Tax Policy tools using clean, responsive borders and hover effects.
+
+Footer Requirements:
+At the very bottom, include a prominent, beautifully styled footer that reads:
+"بحث وكتابة: لين عامر محمد | Research & Writing by: Leen Amer Mohammed"
+
+Inject the full text of the essay sections into these dynamic components while maintaining absolute typographic precision, clean whitespace, and responsive layouts for desktop and mobile viewports. Do not write placeholder text; use the actual comprehensive analysis.
